@@ -1,4 +1,4 @@
-**To-do-list app**
+# To-do-list app
 
 This simple project was built with jQuery.
 
